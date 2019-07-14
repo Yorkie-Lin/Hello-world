@@ -1,2 +1,6 @@
 # Hello-world
-The fist repository
+The first repository
+
+Hi guys!
+
+Yorkie here,Today was my first time here to learn this.
